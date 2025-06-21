@@ -29,10 +29,10 @@ export const products = [
   },
   {
     id: 5,
-    name: "Apple Vision Pro",
-    price: 3499.00,
-    description: "Apple Vision Pro can transform any room into your own personal theater. Expand your movies, shows, and games to your perfect size and experience them in Spatial Audio. Apple Immersive Video puts you in the center of the action with mind‑blowing immersion. And with more pixels than a 4K TV for each eye, you can enjoy stunning content wherever you are — on a long flight or the couch at home.",
-    imageUrl: "https://www.apple.com/v/apple-vision-pro/h/images/overview/intro/hardware_base__ecl2v43j73o2_medium_2x.jpg"
+    name: "iPad Pro",
+    price: 999.00,
+    description: "The all-new iPad Pro packs astonishing power into an unbelievably thin, light, and portable design. Push the limits of what’s possible on iPad with a superportable 11-inch model and an expansive 13-inch model that is the thinnest product Apple has ever created.",
+    imageUrl: "https://www.apple.com/v/ipad-pro/at/images/overview/contrast/product-tile/ipad_pro__ea93uc0cnvsm_large_2x.jpg"
   },
   {
     id: 6,
