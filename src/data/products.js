@@ -37,7 +37,7 @@ export const products = [
   {
     id: 6,
     name: "Apple TV 4K",
-    price: 129.00,
+    price: 1299.00,
     description: "Apple TV 4K unites your favorite Apple services with all your streaming apps in our best-ever picture and sound quality — thanks to the blazing‑fast A15 Bionic chip. Enjoy a FaceTime experience on TV1 that brings your friends and family into your living room — and onto the biggest screen in your home. And with seamless interaction with all your devices and smart home accessories, it’s everything you love about Apple — at its cinematic best.",
     imageUrl: "https://www.apple.com/v/apple-tv-4k/ak/images/overview/rooms/screen_tv_app_startframe__dio5utkp3866_medium_2x.jpg"
   }
